@@ -90,5 +90,4 @@ This Bayesian network allows us to incorporate **population similarity** directl
 │   └── inferencia.py
 ├── p1.py                  # Main algorithm (Local Beam Search)
 ├── report.pdf             # Full project report
-├── p1_statement.pdf       # Assignment statement
 └── README.md              # This file
