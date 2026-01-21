@@ -88,6 +88,5 @@ This Bayesian network allows us to incorporate **population similarity** directl
 │   ├── bn.py
 │   ├── my_bns.py
 │   └── inferencia.py
-├── p1.py                  # Main algorithm (Local Beam Search)
 ├── report.pdf             # Full project report
 └── README.md              # This file
